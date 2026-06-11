@@ -1,2 +1,3 @@
-# API-AUTOMATION-DAY1-SCM-FINANCE
-Automated GET APIs for material master and exchange rates. 6 Test cases. 0 Failures.
+
+## Test Result
+![Day 1 Test Result](./Day1_FullSuite_6of6_PASS.png)
